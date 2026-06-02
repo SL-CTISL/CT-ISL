@@ -1,0 +1,12 @@
+# Baseline GraphSL: Graph Source Localization Library
+
+This is the source code of the GraphSL library to support the research of the graph source localization problem.
+
+- **NetSleuth**
+- **OJC**
+- **GCNSI**
+- **IVGD**
+- **SLVAE**
+
+The original project is available at:
+https://github.com/xianggebenben/GraphSL

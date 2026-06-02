@@ -1,0 +1,2 @@
+timestamp,dataset,topology,infect_model,model,train_auc,train_f1,test_acc,test_pr,test_re,test_f1,test_auc,infect_prob,seed_ratio,source_ratio,recover_prob,time_step,sim_num,checkpoint,loaded_model
+2026-06-01 23:29:40,sport,edges,LLM,GDFSL2025,0.990,0.036,0.997,0.200,0.020,0.036,0.994,0.05,0.0025,LLM,0.0,6,2,Source-Location/Topology-guided-Source-Localization/Baseline(GDFSL)/ckpt&outputs/llm-gdfsl2025/sport/checkpoints/20260601_232940_sport_edges_LLM_GDFSL2025.pt,False

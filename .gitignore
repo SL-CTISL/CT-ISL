@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# sys documents
+.DS_Store
+Thumbs.db
+# ignore big files
+Dataset-diffusion/LLM-diffusion/profile_fields_embedding_Qwen_8B.npy
+LLM-assisted-Dataset-Construction/Pokec/data/processed/subgraph_multi_community_N20000/profile_fields_embedding_Qwen_8B.npy
